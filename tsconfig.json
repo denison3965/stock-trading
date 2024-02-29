@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "front/dist/js",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "moduleResolution": "node",
+    },
+    "include": ["front/app/**/*"]
+}
